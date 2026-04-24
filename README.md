@@ -38,7 +38,7 @@ L'objectif principal était de détecter et de caractériser des exoplanètes en
 
 ### Détection du Sodium dans l'Atmosphère
 
-![Histogramme de détection du sodium](images/sodium_histogram.png)
+![Histogramme de détection du sodium](images/sodium_detection.png)
 
 ---
 *Par Hamza Yousfi, Data Analyst (2026)*
