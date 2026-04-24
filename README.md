@@ -17,7 +17,7 @@ L'objectif principal était de détecter et de caractériser des exoplanètes en
 
 ## Technologies & Compétences (Transfert vers la Data Science)
 
-- **Python pour l'Analyse Scientifique** : Manipulation de données (potentiellement NumPy, SciPy pour le traitement du signal et les statistiques).
+- ****IDL (Interactive Data Language)** pour l'Analyse Scientifique** : Manipulation de données (potentiellement NumPy, SciPy pour le traitement du signal et les statistiques).
 - **Traitement de Séries Temporelles** : Analyse de motifs périodiques et détection d'anomalies.
 - **Modélisation Statistique** : Ajustement de modèles non linéaires, estimation de paramètres, quantification d'incertitudes.
 - **Visualisation de Données** : Représentation de courbes de lumière, de résidus et de distributions de paramètres.
